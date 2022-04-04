@@ -1,4 +1,4 @@
-base_url = "cybersafe-dls-fr.vercel.app"
+base_url = "https://cybersafe-dls-fr.vercel.app"
 title = "CyberSafe-DLS-Vercel"
 compile_sass = true
 minify_html = true
