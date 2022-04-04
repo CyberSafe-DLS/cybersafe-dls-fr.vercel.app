@@ -5,7 +5,7 @@ weight = 10
 
 ## Les arnaques sur internet
 
-![theme3-img1.webp](https://cybersafe-dls.fr/t3-img/theme3-img1.webp)
+![theme3-img1.webp](https://cybersafe-dls-fr.vercel.app/t3-img/theme3-img1.webp)
 
 
 ## Problématique du thème ❓
