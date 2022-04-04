@@ -28,10 +28,13 @@
           <div class="desktop">
             {% if config.extra.logo %}
             {% if current_path == "/" %}
+            <a href="{{ config.base_url }}">
             <img style="width: 90%;" src="{{ config.extra.logo | safe }}" alt="CYBERSAFE-DLS" />
+            </a>
             <hr>
 
-            {% else %}<a style="color: black;" href="">
+            {% else %}
+            <a href="{{ config.base_url }}">
             <img style="width: 90%;" src="{{ config.extra.logo | safe }}" alt="CYBERSAFE-DLS" />
             </a>
             <hr>
@@ -46,7 +49,7 @@
     <div id="trees">
         
         <div id="mobile">
-        <a style="color: black;" href="">
+        <a href="{{ config.base_url }}">
         <img style="width: 40%;" src="{{ config.extra.logo | safe }}" alt="CYBERSAFE-DLS" />
         </a>
         <hr>
