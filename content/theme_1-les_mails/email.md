@@ -43,7 +43,7 @@ Voici les identités les plus susceptibles d’être empruntées :
 - ➡️Les opérateurs télécoms,
 - ➡️Les fournisseurs d’énergie,
 - ➡️Les sites de commerce en ligne,
-- ➡️Les administrations comme le Trésor public (les impôts), la Sécurité sociale (Ameli), la Caisse d’assistance familiale (CAF),
+- ➡️Les administrations comme le Trésor public (les impôts), la Sécurité sociale (Ameli), la caisse d’assistance familiale (CAF),
 - ➡️Les services de messagerie et stockage en ligne (Cloud),
 - ➡️Les sociétés de livraison.
 
@@ -58,7 +58,7 @@ Les méthodes employées dans le cadre de ce type d’attaque sont de plus en pl
 
 - :arrow_forward: Lorsque vous avez cliqué sur le lien, vous êtes redirigé sur un site internet qui semble être authentique, mais ce site a été créé par l'attaquant dans le but d'enregistrer vos identifiants.
 
-- :arrow_forward: Après s'être connecter vous serez en fait redirigé vers le site officiel pour vous connecté de nouveau, mais le cybercriminel aura déjà récupéré vos informations lors de l'étape précédente sur le faux site.
+- :arrow_forward: Après s'être connecté vous serez en fait redirigé vers le site officiel pour vous connecter de nouveau, mais le cybercriminel aura déjà récupéré vos informations lors de l'étape précédente sur le faux site.
 
 ![theme1-img2.webp](https://cybersafe-dls-fr.vercel.app/t1-img/theme1-img2.webp)
 
@@ -66,7 +66,7 @@ Les méthodes employées dans le cadre de ce type d’attaque sont de plus en pl
 ## Les moyens de remédiation ✅
 ---
 
-Afin de vous sensibiliser sur les mails frauduleux nous allons vous expliquer comment les reconnaître et vous en protéger. Il est important d’apprendre à repérer les arnaques, et ce, avant même de cliquer sur contenu du message.
+Afin de vous sensibiliser sur les mails frauduleux nous allons vous expliquer comment les reconnaître et vous en protégez. Il est important d’apprendre à repérer les arnaques, et ce, avant même de cliquer sur le contenu du message.
 
 ![theme1-img3.webp](https://cybersafe-dls-fr.vercel.app/t1-img/theme1-img3.webp)
 
@@ -81,9 +81,9 @@ Afin de vous sensibiliser sur les mails frauduleux nous allons vous expliquer co
 
 Lorsque l'auteur de l'escroquerie est identifiable, la victime de l'arnaque sur Internet peut saisir une juridiction civile pour obtenir le remboursement des sommes extorquées et des dommages et intérêts en cas de préjudice.
 
-En cas de phishing ou toute autre forme d'escroquerie, la victime peut porter plainte auprès d'un commissariat. Si l'auteur de l'arnaque sur Internet n'est pas identifiable, la victime peut porter plainte contre escroc. Le tribunal pénal saisi peut non seulement sanctionner l'auteur de l'escroquerie, mais aussi octroyer des dommages et intérêts au particulier arnaqué sur Internet.
+En cas de phishing où toute autre forme d'escroquerie, la victime peut porter plainte auprès d'un commissariat. Si l'auteur de l'arnaque sur Internet n'est pas identifiable, la victime peut porter plainte contre escroc. Le tribunal pénal saisi peut non seulement sanctionner l'auteur de l'escroquerie, mais aussi octroyer des dommages et intérêts au particulier arnaqué sur Internet.
 
-Le particulier arnaqué sur Internet peut toujours opter pour la saisi des tribunaux français, que l'auteur de l'escroquerie se situe en France ou à l'étranger.
+Le particulier arnaqué sur Internet peut toujours opter pour la saisie des tribunaux français, que l'auteur de l'escroquerie se situe en France ou à l'étranger.
 
 **Procédure judiciaire**
 
