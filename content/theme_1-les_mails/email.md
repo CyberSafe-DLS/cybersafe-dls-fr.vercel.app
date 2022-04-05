@@ -14,7 +14,7 @@ weight = 10
 ## Qu'est-ce qu'un e-mail frauduleux ? ❓
 ---
 
-  L’hameçonnage _(phishing en anglais)_ est une technique frauduleuse destinée à leurrer un internaute pour l’inciter à communiquer des données personnelles et/ou bancaires en se faisant passer pour un tiers de confiance. Cette arnaque peut être réalisée via différents canaux de communication par exemple : courriels (emails), page internet...
+  L’hameçonnage _(phishing en anglais)_ est une technique frauduleuse destinée à leurrer un internaute pour l’inciter à communiquer des données personnelles et/ou bancaires en se faisant passer pour un tiers de confiance. Cette arnaque peut être réalisée via différents canaux de communication, par exemple : courriels (emails), page internet...
 
 
 ## L'objectif du cybercriminel ? <span style="color: ">🎯</span>
@@ -54,7 +54,7 @@ Les méthodes employées dans le cadre de ce type d’attaque sont de plus en pl
 
 - :arrow_forward: Dans un premier temps, le cybercriminel va vous envoyer un message par email en se faisant passer pour un tiers de confiance comme vu précédemment.
 
-- :arrow_forward: Une fois le courrier reçu, après l'avoir lu vous remarquer que le message semble légitime et fiable, mais il s'agit d'un mail de phishing. En effet, dans ce courriel il vous est indiqué de cliquer sur un lien afin de réaliser une action comme changer mot de passe d’un compte, annuler une commande, recevoir un cadeau…
+- :arrow_forward: Une fois le courrier reçu, après l'avoir lu, vous remarquer que le message semble légitime et fiable, mais il s'agit d'un mail de phishing. En effet, dans ce courriel il vous est indiqué de cliquer sur un lien afin de réaliser une action comme changer mot de passe d’un compte, annuler une commande, recevoir un cadeau…
 
 - :arrow_forward: Lorsque vous avez cliqué sur le lien, vous êtes redirigé sur un site internet qui semble être authentique, mais ce site a été créé par l'attaquant dans le but d'enregistrer vos identifiants.
 
@@ -66,7 +66,7 @@ Les méthodes employées dans le cadre de ce type d’attaque sont de plus en pl
 ## Les moyens de remédiation ✅
 ---
 
-Afin de vous sensibiliser sur les mails frauduleux nous allons vous expliquer comment les reconnaître et vous en protégez. Il est important d’apprendre à repérer les arnaques, et ce, avant même de cliquer sur le contenu du message.
+Afin de vous sensibiliser sur les mails frauduleux, nous allons vous expliquer comment les reconnaître et vous en protégez. Il est important d’apprendre à repérer les arnaques, et ce, avant même de cliquer sur le contenu du message.
 
 ![theme1-img3.webp](https://cybersafe-dls-fr.vercel.app/t1-img/theme1-img3.webp)
 
