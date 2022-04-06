@@ -3,13 +3,9 @@ title = "Les emails"
 weight = 10
 +++
 
-<div id="h2-img-center">
-
 ## Se protéger des e-mails frauduleux
 
-![theme1-img1.webp](https://cybersafe-dls.fr/t1-img/theme1-img1.webp)
-
-</div>
+![T1-IMG1](https://cybersafe-dls-fr.vercel.app/theme1-img/t1-img1.webp)
 
 ## Qu'est-ce qu'un e-mail frauduleux ? ❓
 ---
@@ -17,7 +13,7 @@ weight = 10
   L’hameçonnage _(phishing en anglais)_ est une technique frauduleuse destinée à leurrer un internaute pour l’inciter à communiquer des données personnelles et/ou bancaires en se faisant passer pour un tiers de confiance. Cette arnaque peut être réalisée via différents canaux de communication, par exemple : courriels (emails), page internet...
 
 
-## L'objectif du cybercriminel ? <span style="color: ">🎯</span>
+## L'objectif du cybercriminel ? 🎯<span style="color: "></span>
 ---
 
 L'objectif du cybercriminel est de récupérer des données personnelles, professionnelles et/ou bancaires pour les revendre ou les utiliser de manière frauduleuse.
