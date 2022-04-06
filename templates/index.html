@@ -17,6 +17,19 @@
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta name="google-site-verification" content="P7-0R5SQpO95SgNFMMf9MTHQ3bCII8FxEcmBc7R2PNQ" />
         <title>{% block title %}{{ config.title }}{% endblock title %}</title> 
+        <script>
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="https://cybersafe-dls.matomo.cloud/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '1']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src='//cdn.matomo.cloud/cybersafe-dls.matomo.cloud/matomo.js'; s.parentNode.insertBefore(g,s);
+    })();
+    </script>
     </head>
     <body>
 
@@ -130,21 +143,5 @@
     <p class="text-footer">Copyright &copy; <a href="{{ config.base_url }}"> cybersafe-dls.fr </a> | <a href="{{ config.base_url }}">Accueil</a> • <a href="{{ config.base_url }}"> Contact </a> • <a href="https://cybersafe-dls.fr/mentions-legales-cgu"> Mentions légales </a></p>
 </footer>
 <script type="text/javascript" src="{{ config.extra.base_ressources_url }}/js.js" defer></script>
-        
-<!-- Matomo -->
-<script>
-  var _paq = window._paq = window._paq || [];
-  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
-  _paq.push(['trackPageView']);
-  _paq.push(['enableLinkTracking']);
-  (function() {
-    var u="https://cybersafe-dls.matomo.cloud/";
-    _paq.push(['setTrackerUrl', u+'matomo.php']);
-    _paq.push(['setSiteId', '1']);
-    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-    g.async=true; g.src='//cdn.matomo.cloud/cybersafe-dls.matomo.cloud/matomo.js'; s.parentNode.insertBefore(g,s);
-  })();
-</script>
-<!-- End Matomo Code -->
 </body>
 </html>
