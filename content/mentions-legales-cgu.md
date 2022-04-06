@@ -7,7 +7,7 @@ Ce document a pour objectif de donner les informations légales et les condition
 
 ### Éditeur   
 CyberSafe DLS  
-Adresse email : contact@cybersafe-dls.fr  
+Adresse email : cybersafe-dls@protonmail.com  
 Site internet : cybersafe-dls.fr  
 Responsable de la publication : Loris LIZÉ  
 Ci-après désigné « l’éditeur »   
@@ -21,12 +21,12 @@ Ci-après désigné « l’hébergeur »
 
 ### Création   
 Réalisé par CyberSafe DLS  
-Adresse email : contact@cybersafe-dls.fr  
+Adresse email : cybersafe-dls@protonmail.com  
 
 ## Conditions Générales d’Utilisation  
 L’utilisation du service est régie par les présentes conditions générales, dans le respect de la législation française. En utilisant le service, vous reconnaissez avoir pris connaissance de ces conditions et les accepter. Celles-ci pourront être modifiées à tout moment et sans préavis par l'éditeur.  
 
-Vous pouvez signaler toute erreur ou anomalie à la personne responsable de la publication : Loris LIZÉ (contact@cybersafe-dls.fr)  
+Vous pouvez signaler toute erreur ou anomalie à la personne responsable de la publication : Loris LIZÉ (cybersafe-dls@protonmail.com)  
 
 L’Éditeur ne saurait être tenu pour responsable en aucune manière d’une mauvaise utilisation du service.  
 
