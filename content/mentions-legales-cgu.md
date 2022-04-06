@@ -2,7 +2,8 @@
 title = "Mentions Légales"
 +++
 
-## Mentions Légales   
+## Mentions Légales  
+---
 Ce document a pour objectif de donner les informations légales et les conditions d’utilisation et de traitement des données du site internet, ci-après désigné « le service ».
 
 ### Éditeur   
@@ -23,7 +24,8 @@ Ci-après désigné « l’hébergeur »
 Réalisé par CyberSafe DLS  
 Adresse email : cybersafe-dls@protonmail.com  
 
-## Conditions Générales d’Utilisation  
+## Conditions Générales d’Utilisation 
+---
 L’utilisation du service est régie par les présentes conditions générales, dans le respect de la législation française. En utilisant le service, vous reconnaissez avoir pris connaissance de ces conditions et les accepter. Celles-ci pourront être modifiées à tout moment et sans préavis par l'éditeur.  
 
 Vous pouvez signaler toute erreur ou anomalie à la personne responsable de la publication : Loris LIZÉ (cybersafe-dls@protonmail.com)  
