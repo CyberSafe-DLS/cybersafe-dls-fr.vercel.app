@@ -67,7 +67,7 @@ Afin de vous sensibiliser sur les mails frauduleux, nous allons vous expliquer c
 ![T1-IMG3](https://cybersafe-dls-fr.vercel.app/theme1-img/t1-img3.webp)
 
 
-💡**Conseil pour les liens :** Vous pouvez vérifier la destination du lien, qui caché derrière le mot ("Cliquer-ici"), en positionnant le curseur devant celui-ci sans cliquer dessus.
+💡**Conseil pour les liens :** Vous pouvez vérifier la destination du lien qui caché derrière le mot "Connexion" en positionnant le curseur devant celui-ci sans cliquer dessus, vous pourrez ensuite voir le lien s'afficher en bas à gauche de votre navigateur.
 
 ➡️Le meilleur moyen reste de vous rendre manuellement le sur site officiel via l'adresse sur votre moteur de recherche au lieu de cliquer sur le lien du mail.
 
