@@ -1,5 +1,5 @@
 base_url = "https://cybersafe-dls.fr"
-title = "CyberSafe-DLS-Vercel"
+title = "CyberSafe-DLS"
 compile_sass = true
 minify_html = true
 build_search_index = true
