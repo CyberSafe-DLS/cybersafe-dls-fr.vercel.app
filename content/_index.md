@@ -14,7 +14,7 @@ weight = 10
 Nous sommes une équipe composée de 5 étudiants en 2ème année de BTS SIO _(Services Informatiques aux Organisations)_. 
 
 ![ACCUEIL-IMG2](https://cybersafe-dls-fr.vercel.app/accueil-img/accueil-img2.webp)
-
+![ACCUEIL-IMG3](https://cybersafe-dls-fr.vercel.app/accueil-img/accueil-img3.webp)
 
 ## À propos du projet 📌
 ---
