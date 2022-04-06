@@ -1,3 +1,7 @@
++++
+title = "Mentions Légales"
++++
+
 ## Mentions Légales   
 Ce document a pour objectif de donner les informations légales et les conditions d’utilisation et de traitement des données du site internet, ci-après désigné « le service ».
 
