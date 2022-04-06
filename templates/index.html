@@ -42,13 +42,13 @@
             {% if config.extra.logo %}
             {% if current_path == "/" %}
             <a href="{{ config.base_url }}">
-            <img style="width: 90%;" src="{{ config.extra.logo | safe }}" alt="CYBERSAFE-DLS" />
+            <img style="width: 90%;" src="{{ config.extra_logo | safe }}" alt="CYBERSAFE-DLS" />
             </a>
             <hr>
 
             {% else %}
             <a href="{{ config.base_url }}">
-            <img style="width: 90%;" src="{{ config.extra.logo | safe }}" alt="CYBERSAFE-DLS" />
+            <img style="width: 90%;" src="{{ config.extra_logo | safe }}" alt="CYBERSAFE-DLS" />
             </a>
             <hr>
             {% endif %}
@@ -63,7 +63,7 @@
         
         <div id="mobile">
         <a href="{{ config.base_url }}">
-        <img style="width: 40%;" src="{{ config.extra.logo | safe }}" alt="CYBERSAFE-DLS" />
+        <img style="width: 40%;" src="{{ config.extra_logo | safe }}" alt="CYBERSAFE-DLS" />
         </a>
         <hr>
         </div>
