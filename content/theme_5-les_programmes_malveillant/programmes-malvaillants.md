@@ -4,7 +4,7 @@ weight = 10
 +++
 
 ## Les programmes malveillants
-![T5-IMG1](https://cybersafe-dls-fr.vercel.app/t5-img/theme5-img1.png)
+![T5-IMG1](https://cybersafe-dls.fr/t5-img/t5-img2.webp)
 
 
 ## Problématique du thème ❓
@@ -36,7 +36,7 @@ Les attaques d’appareils mobiles ont augmenté de 50% en un an ! Elles incluen
 
 Voici quelques types de programmes malveillants.
 
-![T5-IMG2](https://cybersafe-dls-fr.vercel.app/t5-img/theme5-img2.png)
+![T5-IMG2](https://cybersafe-dls.fr/t5-img/t5-img2.webp)
 
 **Le ransomware**  
 Apparus pour la première fois en 2012, ces chevaux de Troie sont redoutables. Ils infectent votre ordinateur et chiffre vos fichiers. Sans la clé de déchiffrement, vos fichiers sont pris en otage.  
