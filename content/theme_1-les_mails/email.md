@@ -13,7 +13,7 @@ weight = 10
   L’hameçonnage _(phishing en anglais)_ est une technique frauduleuse destinée à leurrer un internaute pour l’inciter à communiquer des données personnelles et/ou bancaires en se faisant passer pour un tiers de confiance. Cette arnaque peut être réalisée via différents canaux de communication, par exemple : courriels (emails), page internet...
 
 
-## L'objectif du cybercriminel ? 🎯<span style="color: "></span>
+## L'objectif du cybercriminel ? 🎯
 ---
 
 L'objectif du cybercriminel est de récupérer des données personnelles, professionnelles et/ou bancaires pour les revendre ou les utiliser de manière frauduleuse.
@@ -56,7 +56,7 @@ Les méthodes employées dans le cadre de ce type d’attaque sont de plus en pl
 
 - :arrow_forward: Après s'être connecté vous serez en fait redirigé vers le site officiel pour vous connecter de nouveau, mais le cybercriminel aura déjà récupéré vos informations lors de l'étape précédente sur le faux site.
 
-![theme1-img2.webp](https://cybersafe-dls.fr/t1-img/theme1-img2.webp)
+![T1-IMG2](https://cybersafe-dls-fr.vercel.app/theme1-img/t1-img2.webp)
 
 
 ## Les moyens de remédiation ✅
@@ -64,7 +64,7 @@ Les méthodes employées dans le cadre de ce type d’attaque sont de plus en pl
 
 Afin de vous sensibiliser sur les mails frauduleux, nous allons vous expliquer comment les reconnaître et vous en protégez. Il est important d’apprendre à repérer les arnaques, et ce, avant même de cliquer sur le contenu du message.
 
-![theme1-img3.webp](https://cybersafe-dls.fr/t1-img/theme1-img3.webp)
+![T1-IMG3](https://cybersafe-dls-fr.vercel.app/theme1-img/t1-img3.webp)
 
 
 💡**Conseil pour les liens :** Vous pouvez vérifier la destination du lien, qui caché derrière le mot ("Cliquer-ici"), en positionnant le curseur devant celui-ci sans cliquer dessus.
