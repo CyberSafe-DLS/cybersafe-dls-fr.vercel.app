@@ -5,7 +5,7 @@ weight = 10
 
 ## La dangerosité des réseaux sociaux
 
-![IMG](https://cybersafe-dls.fr/t4-img/theme4-img1.jpg)
+![T4-IMG1](https://cybersafe-dls-fr.vercel.app/t4-img/t4-img1.jpg)
 
 ## Problématique du thème ❓
 ---
@@ -50,7 +50,7 @@ Les réseaux sociaux comportent des dangers qui peuvent avoir des conséquences 
 - ➡️Comptes privés et comptes professionnels strictement séparés,
 - ➡️Formation aux médias sociaux pour les employés, en particulier dans le domaine de la sécurité des données.  
 
-![IMG2](https://cybersafe-dls-fr.vercel.app/t5-img/t5-img2.webp)
+![T4-IMG2](https://cybersafe-dls-fr.vercel.app/t4-img/t4-img2.webp)
 
 
 ## Le point juridique 📘
