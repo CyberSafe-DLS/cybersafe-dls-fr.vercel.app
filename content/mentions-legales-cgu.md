@@ -28,10 +28,10 @@ L’utilisation du service est régie par les présentes conditions générales,
 
 Vous pouvez signaler toute erreur ou anomalie à la personne responsable de la publication : Loris LIZÉ (cybersafe-dls@protonmail.com)  
 
-L’Éditeur ne saurait être tenu pour responsable en aucune manière d’une mauvaise utilisation du service.  
+L’éditeur ne saurait être tenu pour responsable en aucune manière d’une mauvaise utilisation du service.  
 
 ### Responsabilité
-Les informations et documents mis à disposition sur le Service sont mis à jour régulièrement mais peuvent toutefois contenir des inexactitudes, omissions, lacunes. Tout service étant soumis au piratage ou à des aléas techniques, les téléchargements de contenus ou leur utilisation se font aux risques et périls de l’utilisateur ou utilisatrice et sous sa seule responsabilité ; l’éditeur ne saurait être tenu responsable d’un dommage sur le matériel ou d’une perte de données consécutive à l’accès, au téléchargement ou à l’ouverture d’un document.  
+Les informations et documents mis à disposition sur le service sont mis à jour régulièrement mais peuvent toutefois contenir des inexactitudes, omissions, lacunes. Tout service étant soumis au piratage ou à des aléas techniques, les téléchargements de contenus ou leur utilisation se font aux risques et périls de l’utilisateur ou utilisatrice et sous sa seule responsabilité ; l’éditeur ne saurait être tenu responsable d’un dommage sur le matériel ou d’une perte de données consécutive à l’accès, au téléchargement ou à l’ouverture d’un document.  
 Le service propose des liens vers des sites sur lesquels l’éditeur n’exerce aucun contrôle. L’éditeur dégage toute responsabilité quant au contenu de ces sites.  
 
 
