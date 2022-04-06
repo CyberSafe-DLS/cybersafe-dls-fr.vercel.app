@@ -1,4 +1,4 @@
-base_url = "https://cybersafe-dls-fr.vercel.app"
+base_url = "https://cybersafe-dls.fr"
 title = "CyberSafe-DLS-Vercel"
 compile_sass = true
 minify_html = true
@@ -21,5 +21,5 @@ taxonomies = "on"
 anchors = "on"
 
 [extra]
-logo = "https://cybersafe-dls-fr.vercel.app/img/logo_title.webp"
-base_ressources_url = "https://cybersafe-dls-fr.vercel.app"
+logo = "https://cybersafe-dls.fr/img/logo_title.webp"
+base_ressources_url = "https://cybersafe-dls.fr"
