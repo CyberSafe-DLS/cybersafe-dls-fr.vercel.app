@@ -5,7 +5,7 @@ weight = 10
 
 ## Sécurisation des mots de passe
 
-![theme2-img1.webp](https://cybersafe-dls.fr/t2-img/theme2-img1.webp)
+![T2-IMG1](https://cybersafe-dls-fr.vercel.app/theme2-img/t2-img1.webp)
 
 
 
@@ -72,6 +72,8 @@ Pour cela que nous allons vous proposer différentes solutions pour vos mots de 
 - ➡️ Dans un premier temps vous pouvez utiliser une phrase que vous pouvez retenir facilement : UnLapinDansLaForet
  
 - ➡️ Composer un votre mot de passe en utilisant la première lettre de chaque mot d’une phrase. Vous n’aurez qu’à vous rappeler cette phrase pour vous rappeler le mot de passe. Par exemple avec la phrase : « Un mot de passe possède 12 caractères minimum », vous pouvez obtenir le mot de passe : UmdPp12Cm  
+
+![T2-IMG2](https://cybersafe-dls-fr.vercel.app/theme2-img/t2-img2.webp)
 
 Ne pas oublier de changer régulièrement vos mots de passe !  
 
