@@ -5,7 +5,7 @@ weight = 10
 
 # Bienvenue sur CyberSafe-DLS !
 
-![IMG](https://cybersafe-dls-fr.vercel.app/t0-img/theme0-img1.webp)
+![IMG](https://cybersafe-dls.fr/t0-img/theme0-img1.webp)
 
 
 ## Qui sommes-nous ? ❓
@@ -13,7 +13,7 @@ weight = 10
 
 Nous sommes une équipe composée de 5 étudiants en 2ème année de BTS SIO _(Services Informatiques aux Organisations)_. 
 
-![IMG](https://cybersafe-dls-fr.vercel.app/t0-img/theme0-img2.webp)
+![IMG](https://cybersafe-dls.fr/t0-img/theme0-img2.webp)
 
 
 ## À propos du projet 📌
