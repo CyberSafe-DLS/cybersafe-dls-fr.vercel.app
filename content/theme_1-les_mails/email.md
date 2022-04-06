@@ -7,7 +7,7 @@ weight = 10
 
 ## Se protéger des e-mails frauduleux
 
-![theme1-img1.webp](https://cybersafe-dls-fr.vercel.app/t1-img/theme1-img1.webp)
+![theme1-img1.webp](https://cybersafe-dls.fr/t1-img/theme1-img1.webp)
 
 </div>
 
@@ -60,7 +60,7 @@ Les méthodes employées dans le cadre de ce type d’attaque sont de plus en pl
 
 - :arrow_forward: Après s'être connecté vous serez en fait redirigé vers le site officiel pour vous connecter de nouveau, mais le cybercriminel aura déjà récupéré vos informations lors de l'étape précédente sur le faux site.
 
-![theme1-img2.webp](https://cybersafe-dls-fr.vercel.app/t1-img/theme1-img2.webp)
+![theme1-img2.webp](https://cybersafe-dls.fr/t1-img/theme1-img2.webp)
 
 
 ## Les moyens de remédiation ✅
@@ -68,7 +68,7 @@ Les méthodes employées dans le cadre de ce type d’attaque sont de plus en pl
 
 Afin de vous sensibiliser sur les mails frauduleux, nous allons vous expliquer comment les reconnaître et vous en protégez. Il est important d’apprendre à repérer les arnaques, et ce, avant même de cliquer sur le contenu du message.
 
-![theme1-img3.webp](https://cybersafe-dls-fr.vercel.app/t1-img/theme1-img3.webp)
+![theme1-img3.webp](https://cybersafe-dls.fr/t1-img/theme1-img3.webp)
 
 
 💡**Conseil pour les liens :** Vous pouvez vérifier la destination du lien, qui caché derrière le mot ("Cliquer-ici"), en positionnant le curseur devant celui-ci sans cliquer dessus.
