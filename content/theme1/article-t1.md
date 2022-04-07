@@ -6,6 +6,7 @@ weight = 10
 ## Se protéger des e-mails frauduleux
 
 ![T1-IMG1](https://cybersafe-dls-fr.vercel.app/theme1-img/t1-img1.webp)
+<img src="https://cybersafe-dls-fr.vercel.app/theme1-img/t1-img1.webp" alt="t1-img.webp" width="50%"/>
 
 ## Qu'est-ce qu'un e-mail frauduleux ? ❓
 ---
