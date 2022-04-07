@@ -55,7 +55,7 @@ Les méthodes employées dans le cadre de ce type d’attaque sont de plus en pl
 - :arrow_forward: Lorsque vous avez cliqué sur le lien, vous êtes redirigé sur un site internet qui semble être authentique, mais ce site a été créé par l'attaquant dans le but d'enregistrer vos identifiants.
 
 - :arrow_forward: Après s'être connecté vous serez en fait redirigé vers le site officiel pour vous connecter de nouveau, mais le cybercriminel aura déjà récupéré vos informations lors de l'étape précédente sur le faux site.
-- 
+
 <img src="https://cybersafe-dls.fr/theme1-img/t1-img2.webp" alt="t1-img2.webp" width="40%"/>
 
 ## Les moyens de remédiation ✅
