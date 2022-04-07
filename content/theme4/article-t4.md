@@ -50,7 +50,7 @@ Les réseaux sociaux comportent des dangers qui peuvent avoir des conséquences 
 - ➡️Comptes privés et comptes professionnels strictement séparés,
 - ➡️Formation aux médias sociaux pour les employés, en particulier dans le domaine de la sécurité des données.  
 
-<img src="https://cybersafe-dls.fr/theme4-img/t4-img2.webp" alt="t4-img2.webp" width="50%"/>
+<img src="https://cybersafe-dls.fr/theme4-img/t4-img2.webp" alt="t4-img2.webp" width="75%"/>
 
 
 ## Le point juridique 📘
