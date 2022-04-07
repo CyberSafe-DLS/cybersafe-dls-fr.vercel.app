@@ -5,7 +5,7 @@ weight = 10
 
 ## Les arnaques sur internet
 
-<img src="https://cybersafe-dls-fr.vercel.app/theme3-img/t3-img1.webp" alt="t3-img1.webp" width="75%"/>
+<img src="https://cybersafe-dls-fr.vercel.app/theme3-img/t3-img1.webp" alt="t3-img1.webp" width="50%"/>
 
 
 ## Problématique du thème ❓
@@ -24,8 +24,8 @@ Les objectifs des pirates sur internet  sont de récupérer au maximum des infor
 ## Les démarches de l'attaquant 👨‍💻
 ---
 
-<img src="https://cybersafe-dls-fr.vercel.app/theme3-img/t3-img2.webp" alt="t3-img2.webp" width="75%"/>
-<img src="https://cybersafe-dls-fr.vercel.app/theme3-img/t3-img3.webp" alt="t3-img3.webp" width="75%"/>
+<img src="https://cybersafe-dls-fr.vercel.app/theme3-img/t3-img2.webp" alt="t3-img2.webp" width="50%"/>
+<img src="https://cybersafe-dls-fr.vercel.app/theme3-img/t3-img3.webp" alt="t3-img3.webp" width="50%"/>
 
 Les attaquant peuvent utiliser plusieurs manière afin d'arriver a leurs fins en voici quelques unes.
  
