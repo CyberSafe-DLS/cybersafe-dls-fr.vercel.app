@@ -5,7 +5,7 @@ weight = 10
 
 ## Se protéger des e-mails frauduleux
 
-<img src="https://cybersafe-dls-fr.vercel.app/theme1-img/t1-img1.webp" alt="t1-img.webp" width="75%"/>
+<img src="https://cybersafe-dls-fr.vercel.app/theme1-img/t1-img1.webp" alt="t1-img.webp" width="50%"/>
 
 ## Qu'est-ce qu'un e-mail frauduleux ? ❓
 ---
@@ -56,14 +56,14 @@ Les méthodes employées dans le cadre de ce type d’attaque sont de plus en pl
 
 - :arrow_forward: Après s'être connecté vous serez en fait redirigé vers le site officiel pour vous connecter de nouveau, mais le cybercriminel aura déjà récupéré vos informations lors de l'étape précédente sur le faux site.
 - 
-<img src="https://cybersafe-dls-fr.vercel.app/theme1-img/t1-img2.webp" alt="t1-img2.webp" width="75%"/>
+<img src="https://cybersafe-dls-fr.vercel.app/theme1-img/t1-img2.webp" alt="t1-img2.webp" width="50%"/>
 
 ## Les moyens de remédiation ✅
 ---
 
 Afin de vous sensibiliser sur les mails frauduleux, nous allons vous expliquer comment les reconnaître et vous en protégez. Il est important d’apprendre à repérer les arnaques, et ce, avant même de cliquer sur le contenu du message.
 
-<img src="https://cybersafe-dls-fr.vercel.app/theme1-img/t1-img3.webp" alt="t1-img3.webp" width="75%"/>
+<img src="https://cybersafe-dls-fr.vercel.app/theme1-img/t1-img3.webp" alt="t1-img3.webp" width="50%"/>
 
 
 💡**Conseil pour les liens :** Vous pouvez vérifier la destination du lien qui caché derrière le mot "Connexion" en positionnant le curseur devant celui-ci sans cliquer dessus, vous pourrez ensuite voir le lien s'afficher en bas à gauche de votre navigateur.
