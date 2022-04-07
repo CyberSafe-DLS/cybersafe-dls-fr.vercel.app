@@ -73,7 +73,7 @@ Pour cela que nous allons vous proposer différentes solutions pour vos mots de 
  
 - ➡️ Composer un votre mot de passe en utilisant la première lettre de chaque mot d’une phrase. Vous n’aurez qu’à vous rappeler cette phrase pour vous rappeler le mot de passe. Par exemple avec la phrase : « Un mot de passe possède 12 caractères minimum », vous pouvez obtenir le mot de passe : UmdPp12Cm  
 
-<img src="https://cybersafe-dls.fr/theme2-img/t2-img2.webp" alt="t2-img2.webp" width="50%"/>
+<img src="https://cybersafe-dls.fr/theme2-img/t2-img2.webp" alt="t2-img2.webp" width="75%"/>
 
 Ne pas oublier de changer régulièrement vos mots de passe !  
 
