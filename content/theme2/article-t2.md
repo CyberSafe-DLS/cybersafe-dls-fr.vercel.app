@@ -5,7 +5,7 @@ weight = 10
 
 ## Sécurisation des mots de passe
 
-![T2-IMG1](https://cybersafe-dls-fr.vercel.app/theme2-img/t2-img1.webp)
+<img src="https://cybersafe-dls-fr.vercel.app/theme2-img/t2-img1.webp" alt="t2-img1.webp" width="75%"/>
 
 
 
