@@ -16,7 +16,7 @@ Quel genre de programme malveillant vous pourriez rencontrer ?
 ## L'objectif du cybercriminel ? 🎯
 ---
 
-L'objectif des cybercriminels à utiliser des programmes malveillants est le plus souvent pour de l’escroquerie, du vols de données à caractère personnel, rançons, blocage de système informatique. Pour une finalité, souvent à l'argent ou la revente de données à fin de profits.
+L'objectif des cybercriminels à utiliser des programmes malveillants est le plus souvent pour de l’escroquerie, du vols de données à caractère personnel, rançons, blocage de système informatique. Pour une finalité, souvent de l'argent ou la revente de données à des fin de profits.
 
 
 ## Les démarches de l'attaquant 👨‍💻
@@ -30,7 +30,7 @@ Les logiciels malveillants peuvent s'introduire dans votre ordinateur de différ
 - ➡️ Vous cliquez sur un faux message d'erreur ou une fenêtre pop-up, ce qui génère le téléchargement d'un logiciel malveillant.
 - ➡️ Vous ouvrez une pièce jointe d'un e-mail contenant un logiciel malveillant.
 
-Les logiciels malveillants peuvent se propager de différentes façons. Cela ne signifie pas que vous n'avez aucun moyen de les bloquer. Maintenant que vous savez en quoi consistent les logiciels malveillants et ce qu'ils sont susceptibles de faire, nous vous proposons quelques mesures pratiques pour vous protéger.
+Les logiciels malveillants peuvent se propager de différentes façons. Cela ne signifie pas que vous n'avez aucun moyen de les bloquer. Maintenant que vous savez en quoi consiste les logiciels malveillants et ce qu'ils sont susceptibles de faire, nous vous proposons quelques mesures pratiques pour vous protéger.
 
 Il existe une multitude de types de programmes malveillants différents.  
 Les attaques d’appareils mobiles ont augmenté de 50% en un an ! Elles incluent autant de menaces que sur les ordinateurs de bureau : ransomwares, fraude aux clics publicitaires, vers etc...
@@ -48,7 +48,7 @@ Un virus est un morceau de code, un programme qui s’insère dans une applicati
 
 **Les spywares ou logiciels espions**  
 Les logiciels espions ou « espiogiciels » permettent de connaître et de collecter toute l’activité de l’utilisateur sur son ordinateur les informations à son insu ou sans son consentement.  
-Mots de passe, informations de paiement ou messages, tout ce qui est taper sur votre ordinateur est enregistré.  
+Mots de passe, informations de paiement ou messages, tout ce qui est tapé sur votre ordinateur est enregistré.  
 
 **Le cheval de Troie**  
 Le cheval de Troie est un logiciel en apparence légitime, mais qui contient une fonctionnalité malveillante. Son but est de faire entrer cette fonctionnalité malveillante sur l'ordinateur et de l'installer à l'insu de l'utilisateur.  
