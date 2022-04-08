@@ -18,7 +18,7 @@ Quelle est la dangerosité des réseaux sociaux ?
 ---
 
 Les objectifs des pirates sur internet est de récupérer au maximum des informations sur leurs "victimes". Le but est de divulguer ou de propager vos données personnelles. Les enfants et adolescents courent déjà un risque sur les réseaux sociaux, mais les adultes, les pouvoirs publics, les banques et même les grandes entreprises ne sont pas à l’abri des risques.  
-Les réseaux sociaux sont remplis de pirates, cybercriminels et vendeurs de données. Facebook, Instagram, Linkedin etc.. contiennent également d’autres dangers dont vous devriez vous en protéger.  
+Les réseaux sociaux sont remplis de pirates, cybercriminels et de vendeurs de données. Facebook, Instagram, Linkedin etc.. Ils contiennent également d’autres dangers dont vous devriez vous en protéger.  
 
 
 ## Les démarches de l'attaquant 👨‍💻
