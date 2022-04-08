@@ -36,7 +36,7 @@ Les cybercriminels sont davantage ingénieux, car ils se font passer pour des or
 Voici les identités les plus susceptibles d’être empruntées :
 
 - ➡️Les banques, systèmes de paiement en ligne,
-- ➡️Les opérateurs télécoms,
+- ➡️Les opérateurs télécom,
 - ➡️Les fournisseurs d’énergie,
 - ➡️Les sites de commerce en ligne,
 - ➡️Les administrations comme le Trésor public (les impôts), la Sécurité sociale (Ameli), la caisse d’assistance familiale (CAF),
@@ -50,7 +50,7 @@ Les méthodes employées dans le cadre de ce type d’attaque sont de plus en pl
 
 - :arrow_forward: Dans un premier temps, le cybercriminel va vous envoyer un message par email en se faisant passer pour un tiers de confiance comme vu précédemment.
 
-- :arrow_forward: Une fois le courrier reçu, après l'avoir lu, vous remarquer que le message semble légitime et fiable, mais il s'agit d'un mail de phishing. En effet, dans ce courriel il vous est indiqué de cliquer sur un lien afin de réaliser une action comme changer mot de passe d’un compte, annuler une commande, recevoir un cadeau…
+- :arrow_forward: Une fois le courrier reçu, après l'avoir lu, vous remarquez que le message semble légitime et fiable, mais il s'agit d'un mail de phishing. En effet, dans ce courriel il vous est indiqué de cliquer sur un lien afin de réaliser une action comme changer le mot de passe d’un compte, annuler une commande, recevoir un cadeau…
 
 - :arrow_forward: Lorsque vous avez cliqué sur le lien, vous êtes redirigé sur un site internet qui semble être authentique, mais ce site a été créé par l'attaquant dans le but d'enregistrer vos identifiants.
 
