@@ -78,8 +78,8 @@ Pour cela que nous allons vous proposer différentes solutions pour vos mots de 
 
 Ne pas oublier de changer régulièrement vos mots de passe !  
 
-Pour la dernière solution vous pouvez utiliser un gestionnaire de mot de passe.  
-Normalement il est conseillé d'utiliser un mot de passe unique pour chaque application ou système, mais c’est compliqué de retenir tous nos mots de passe, alors on utilise parfois le même pour plusieurs applications / systèmes ce qui est fortement déconseillé.
+Pour la dernière solution, vous pouvez utiliser un gestionnaire de mot de passe.  
+Normalement, il est conseillé d'utiliser un mot de passe unique pour chaque application ou système, mais c’est compliqué de retenir tous nos mots de passe, alors on utilise parfois le même pour plusieurs applications / systèmes ce qui est fortement déconseillé.
 
 **Gestionnaire de mot de passe**
 
@@ -99,7 +99,7 @@ Bien plus qu’un outil de confort, le gestionnaire de mot de passe propose de n
 Un bon mot de passe est un mot de passe long. Plus un mot de passe est long, plus il est robuste.  
 N’écrivez votre mot de passe nulle part, au besoin, utilisez un gestionnaire de mot de passe.
 Utilisez un mot de passe distinct pour le travail et vos sites personnels préférés.  
-Ne divulguez et ne partagez jamais un mot de passe.
+Ne divulguez pas et ne partagez jamais un mot de passe.
 
 
 ## Le point juridique 📘
