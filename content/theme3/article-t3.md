@@ -17,7 +17,7 @@ Comment se protéger au mieux et gratuitement de ces attaques.
 ## L'objectif du cybercriminel ? 🎯
 ---
 
-Les objectifs des pirates sur internet est de récupérer au maximum des informations sur leurs "victimes" pour ensuite commencer à l'arnaquer avec les informations récupérées. L'objectif final est de récupérer souvent de l’argent ou de récupérer toutes sortes de données à caractère personnelle.
+Les objectifs des pirates sur internet est de récupérer au maximum des informations sur leurs "victimes" pour ensuite commencer à l'arnaquer avec les informations récupérées. L'objectif final est de récupérer souvent de l’argent ou de récupérer toutes sortes de données à caractère personnel.
 
 
 ## Les démarches de l'attaquant 👨‍💻
@@ -35,7 +35,7 @@ Le phishing consiste à aller à la "pêche" aux informations. "C’est une tech
 Le drop shipping est une pratique commerciale qui se développe de plus en plus sur Internet, notamment chez les influenceurs et via les réseaux sociaux. Il s’agit d’une technique utilisée par des sites internet qui proposent des produits déjà en vente chez d’autres fournisseurs et qui gonflent artificiellement le prix afin d’empocher une jolie commission au passage. "Par exemple, un influenceur va nous promettre 50% sur une montre si on l’achète sur telle boutique en ligne. Et puis, on se rend compte par la suite que cette boutique n’est qu’un intermédiaire avec le grossiste et qu’elle a obtenu une commission énorme sur votre achat. Finalement, on a payé cette montre 10x plus cher".
 
 **Les faux sites arnaqueurs :**  
-Certains sites sont simplement frauduleux et n'enverront jamais notre commande. Ils utilisent des adresses quasi identiques aux magasins en ligne bien connus. Ils usurpent les noms de marques célèbres puis disparaissent du paysage pour réapparaître plus tard sous une autre dénomination.
+Certains sites sont simplement frauduleux et n'enverront jamais notre commande. Ils utilisent des adresses quasi-identiques aux magasins en ligne bien connus. Ils usurpent les noms de marques célèbres puis disparaissent du paysage pour réapparaître plus tard sous une autre dénomination.
 
 **Arnaques aux dépannages :**  
 L’arnaque aux faux supports techniques (Tech support scam en anglais) consiste à effrayer la victime, par SMS, téléphone, chat, courriel, ou par l’apparition d’un message qui bloque son ordinateur. Cela lui indique un problème technique grave et un risque de perte de ses données ou de l’usage de son équipement, afin de pousser la victime à contacter un prétendu support technique officiel (Microsoft, Apple, Google…), pour ensuite la convaincre de payer un pseudo-dépannage informatique et / ou à acheter des logiciels inutiles, voire nuisibles. Si la victime refuse de payer, les criminels peuvent la menacer de détruire ses fichiers ou de divulguer ses informations personnelles.
