@@ -36,7 +36,8 @@ Voici ce qu’il peut récupérer :
 
 Un attaquant a plusieurs manières de récupérer vos mots de passe :
 
-- ➡️ Espionnage
+- ➡️ Espionnage,
+- ➡️ Phishing,
 - ➡️ Écoute téléphonique,
 - ➡️ Un logiciel qui enregistre votre écran ou votre voix. 
 
@@ -55,17 +56,17 @@ Cette attaque consiste à :
 
 **Composition d’un mot de passe**
 
-Votre mot de passe est l’élément clé de n’importe quel compte que vous avez, donc il doit être difficile à deviner pour cela qu’il ne faut surtout pas utiliser :
+Votre mot de passe est l’élément-clé de n’importe quel compte que vous avez, donc il doit être difficile à deviner pour cela qu’il ne faut surtout pas utiliser :
 - ➡️ Votre adresse,
 - ➡️ Votre date de naissance,
 - ➡️ Le nom de votre animal domestique,
 - ➡️ Ou des mots en lien avec le service ou application que vous utilisez.  
 
-Un mot de passe robuste est un mot de passe possédant minimum 12 caractères, car plus votre mot de passe est long plus il est difficile de le trouver. Mais il faudra également sans souvenir.
+Un mot de passe robuste est un mot de passe possédant minimum 12 caractères, car plus votre mot de passe est long plus il est difficile de le trouver. Mais il faudra également s'en souvenir.
  
-Mais qu'en ait-il des inclusions de lettre majuscule au début du mot de passe ou du remplacement les a par @ ?
+Mais qu'en est-il des inclusions de lettre majuscule au début du mot de passe ou du remplacement les "a" par "@" ?
  
-Car plus votre mot de passe est long plus il est robuste.
+Plus votre mot de passe est long plus il est robuste.
  
 Pour cela que nous allons vous proposer différentes solutions pour vos mots de passe.
  
@@ -77,8 +78,8 @@ Pour cela que nous allons vous proposer différentes solutions pour vos mots de 
 
 Ne pas oublier de changer régulièrement vos mots de passe !  
 
-Et pour la dernière solution vous pouvez utiliser un gestionnaire de mot de passe.  
-Normalement il est conseillé d'utiliser un mot de passe unique pour chaque application ou système, mais c’est compliqué de retenir tous nos mots de passe alors on utilise parfois le même pour plusieurs applications/systèmes.
+Pour la dernière solution vous pouvez utiliser un gestionnaire de mot de passe.  
+Normalement il est conseillé d'utiliser un mot de passe unique pour chaque application ou système, mais c’est compliqué de retenir tous nos mots de passe, alors on utilise parfois le même pour plusieurs applications / systèmes ce qui est fortement déconseillé.
 
 **Gestionnaire de mot de passe**
 
@@ -88,7 +89,7 @@ Comment ça marche ? Les gestionnaires de mots de passe stockent tous vos mots d
 
 Bien plus qu’un outil de confort, le gestionnaire de mot de passe propose de nombreuses fonctionnalités :
 - ➡️ Générer un mot de passe unique et complexe pour chaque site internet,
-- ➡️ Gérer ses mots de passe de manière collaborative dans un trousseau sécurisé, sorte de coffre-fort numérique,
+- ➡️ Gérer ses mots de passe de manière collaborative dans un trousseau sécurisé, une sorte de coffre-fort numérique,
 - ➡️ Remplir automatiquement les formulaires,
 - ➡️ Stocker les mots de passe en local dans un format chiffré,
 - ➡️ Synchroniser sa base de mots de passe,
