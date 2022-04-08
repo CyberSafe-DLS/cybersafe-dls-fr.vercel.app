@@ -18,7 +18,7 @@ Comment se protéger au mieux et gratuitement de ces attaques.
 ---
 
 
-Les objectifs des pirates sur internet  sont de récupérer au maximum des informations sur leurs "victimes" pour ensuite commencer à l'arnaque avec les informations récupérées. Les objectifs finaux sont de récupérer souvent de l’argent ou récupérer toutes sortes de données à caractère personnelles.
+Les objectifs des pirates sur internet est de récupérer au maximum des informations sur leurs "victimes" pour ensuite commencer à l'arnaquer avec les informations récupérées. L'objectif final est de récupérer souvent de l’argent ou de récupérer toutes sortes de données à caractère personnelle.
 
 
 ## Les démarches de l'attaquant 👨‍💻
