@@ -11,7 +11,7 @@ weight = 10
 ## Problématique du thème ❓
 ---
 Les arnaques sur internet sont de plus en plus présentes sur internet, c’est pour cela qu’on peut se poser la question suivante :  
-Comment se protéger au mieux et gratuitement des ces attaques.
+Comment se protéger au mieux et gratuitement de ces attaques.
 
 
 ## L'objectif du cybercriminel ? 🎯
